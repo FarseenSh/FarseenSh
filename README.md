@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarseenSh
 - 👀 I’m interested in Data Science, ML&AI
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on AWS.
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me Twitter: @LifeHodlr , Insta: @ig_grimlock
 
 <!---
